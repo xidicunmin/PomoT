@@ -1,0 +1,14 @@
+C:\Users\redwa\AppData\Local\Temporary Projects\EasyPomo\bin\Debug\EasyPomo.exe
+C:\Users\redwa\AppData\Local\Temporary Projects\EasyPomo\bin\Debug\EasyPomo.pdb
+C:\Users\redwa\AppData\Local\Temporary Projects\EasyPomo\obj\x86\Debug\EasyPomo.Form1.resources
+C:\Users\redwa\AppData\Local\Temporary Projects\EasyPomo\obj\x86\Debug\EasyPomo.Properties.Resources.resources
+C:\Users\redwa\AppData\Local\Temporary Projects\EasyPomo\obj\x86\Debug\EasyPomo.csproj.GenerateResource.Cache
+C:\Users\redwa\AppData\Local\Temporary Projects\EasyPomo\obj\x86\Debug\EasyPomo.exe
+C:\Users\redwa\AppData\Local\Temporary Projects\EasyPomo\obj\x86\Debug\EasyPomo.pdb
+E:\git-project\PomoT\源码\EasyPomo\EasyPomo\obj\x86\Debug\EasyPomo.exe
+E:\git-project\PomoT\源码\EasyPomo\EasyPomo\obj\x86\Debug\EasyPomo.pdb
+E:\git-project\PomoT\源码\EasyPomo\EasyPomo\bin\Debug\EasyPomo.exe
+E:\git-project\PomoT\源码\EasyPomo\EasyPomo\bin\Debug\EasyPomo.pdb
+E:\git-project\PomoT\源码\EasyPomo\EasyPomo\obj\x86\Debug\EasyPomo.Form1.resources
+E:\git-project\PomoT\源码\EasyPomo\EasyPomo\obj\x86\Debug\EasyPomo.Properties.Resources.resources
+E:\git-project\PomoT\源码\EasyPomo\EasyPomo\obj\x86\Debug\EasyPomo.csproj.GenerateResource.Cache
